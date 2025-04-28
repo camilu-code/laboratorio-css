@@ -1,0 +1,91 @@
+/*Aplicando reglas universales*/
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+/*Estilos generales*/
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(224, 205, 224);
+    color:black;
+}
+/*definir el estilo del encabezado*/
+header{
+    background-color: #CD88AF ;
+    padding: 20px;
+    text-align: center;
+}
+
+/*Estilos de logo*/
+.logo{
+    width: 100px;
+}
+/*ESTILOS DE NAVEADOR*/
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+/*ESTILOS DE LOS ITEMS DE LA LISTA*/
+nav ul li{
+    margin: 0 15px;
+}
+/*ESTILOS A LOS ENLACES DEL NAVEGADOR */
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+/*ESTILOS A LOS ENLACES cuando se pasa el mause */
+nav ul li a:hover{
+    text-decoration: underline;
+    color: #CD88AF ;
+}
+/*ESTILOS AL AREA PRINCIPAL  */
+main{
+    padding: 30px;
+    text-align: center;
+}
+/*ESTILOS A la seleccion  */
+section{
+    margin-bottom: 40px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,1);
+}
+/*pie de pagina  */
+footer{
+    background-color: #333;
+    color: #eee;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+/*estilo de imagenes */
+img{
+    width: 100%;
+    height: auto;
+    margin: 15px;
+    border-radius: 8px;
+}
+/*estilo de las tarjetas de servicios */
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+/*estilo a cada tarjeta */
+.tarjeta{
+    background-color:#CD88AF ;
+    padding: 20px;
+    border: 2px solid #661141 ;
+    border-radius: 10px;
+    width: 30%;
+    margin: 10px;
+    box-shadow: 0px 2px 6px rgba(0,0,0,1);
+
+}
