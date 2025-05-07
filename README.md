@@ -1,32 +1,34 @@
-#TALLER PRÁCTICO DE HTML Y CSS
-
-_TALLER PRÁCTICO DE HTML Y CSS_
+# Creación y Estilo de Páginas Web para Emprendedores
 
 ## Comenzando 🚀
 
-Esta práctica muestra como aplicar estilos CSS a un sitio web construido con HTML.
+Este taller práctico está diseñado para ayudarte a comprender y aplicar estilos CSS sobre una estructura básica construida con HTML. Es una introducción ideal para quienes están comenzando en el mundo del desarrollo web, ya que ofrece una base sólida con ejemplos reales, buenas prácticas y una visión clara sobre cómo transformar una página sencilla en un sitio visualmente atractivo y funcional.
 
-### Pre-requisitos 📋
+### 🎯 Objetivo
 
--Servidor web
+Ampliar el sitio web realizado en el taller, incorporando nuevas páginas, botones funcionales, imágenes adicionales y aplicando estilos CSS personalizados.
+Se busca que los estudiantes practiquen la organización de proyectos web profesionales, el versionamiento en Git, y la documentación clara.
+
+#### Pre-requisitos 📋
+
+- Un servidor web local o servicio de alojamiento  
+- Navegador actualizado  
+- Conocimientos básicos de HTML y CSS  
 
 ## Construido con 🛠️
 
-* [Visual studio code](https://code.visualstudio.com/) - Editor de código fuente
-* [Git](https://git-scm.com/downloads/win) - Git bash para windows
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código fuente  
+* [Git](https://git-scm.com/downloads/win) - Git Bash para Windows 
 
+### Página principal
+![Pantalla principal](../emprendimiento-digital/img/panalla_principal.png)
+
+### Sección de servicios
+![Pantalla de servicios](../emprendimiento-digital/img/pantalla_servicios.png.png)
 
 ## Autores ✒️
 * **Camila Segvia** - *Trabajo Inicial* - [camilu-code](https://github.com/villanuevand)
 
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
 
 ---
 ⌨️ con ❤️ por [Camila Segovia 😊] 
