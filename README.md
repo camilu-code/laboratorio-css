@@ -21,10 +21,8 @@ Se busca que los estudiantes practiquen la organización de proyectos web profes
 * [Git](https://git-scm.com/downloads/win) - Git Bash para Windows 
 
 ### Página principal
-![Pantalla principal](../emprendimiento-digital/img/panalla_principal.png)
-
-### Sección de servicios
-![Pantalla de servicios](../emprendimiento-digital/img/pantalla_servicios.png.png)
+![Pantalla principal](img/pantalla_principal.png)
+![Pantalla de servicios](img/pantalla_servicios.png)
 
 ## Autores ✒️
 * **Camila Segvia** - *Trabajo Inicial* - [camilu-code](https://github.com/villanuevand)
