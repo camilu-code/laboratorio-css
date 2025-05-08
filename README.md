@@ -31,4 +31,4 @@ Se busca que los estudiantes practiquen la organización de proyectos web profes
 
 
 ---
-⌨️ con ❤️ por [Camila Segovia 😊] 
+⌨️ con ❤️ por [Camila Segovia 😊].
